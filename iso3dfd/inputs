@@ -1,0 +1,7 @@
+n1 = 128
+n2 = 128
+n3 = 128
+num_iterations	= 10
+n1_block = 32
+n2_block = 32
+n3_block = 32

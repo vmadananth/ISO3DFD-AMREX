@@ -1,0 +1,4 @@
+CEXE_sources += iso3dfd.cpp
+
+CEXE_headers += iso3dfd.h
+#CEXE_sources += matmul_init.cpp  matmul_print.cpp
